@@ -16,6 +16,4 @@ Download the code and run: `python wildflower.py <input file> <output folder> <s
 
 ---
 
-[See games made by Protoria Studios](https://store.steampowered.com/search/?developer=Protoria%20Studios)
-
-![](https://protoriastudios.com/Skyfear_Screenshot02.png)
+[MIT License](LICENSE)
